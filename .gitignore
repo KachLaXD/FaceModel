@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+.ipynb_checkpoints
+
+
+*.pkl
+
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
